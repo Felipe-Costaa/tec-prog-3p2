@@ -23,11 +23,13 @@ const fazerLogin = () => {
         const p = document.getElementById('pError')
         p.textContent = "Dados obrigatorios"
         p.style.color = "red"
+        p.style.fontSize = "24px"
     }
     else {
         const p = document.getElementById('pError')
         p.textContent = "Usuário e/ou senha errado"
         p.style.color = "red"
+        p.style.fontSize = "24px"
 
     }
 }

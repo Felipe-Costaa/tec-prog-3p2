@@ -1,9 +1,28 @@
-iframe {
-    text-align: center;
-}
-
 h1 {
     background-color: darkgreen;
     margin: 0;
     color: white;
+    font-size: 40px;
+}
+
+.gif {
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    text-align: left;
+}
+
+form {
+    margin: 10px;
+    
+}
+
+#divLogin {
+    border: solid;
+}
+
+.mensagemProfessor {
+    text-align: center;
 }
